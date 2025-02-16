@@ -1,5 +1,3 @@
-Here’s a sample `README.md` for the provided script:
-
 ---
 
 # Discord Username Checker
